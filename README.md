@@ -189,4 +189,4 @@ ACCESS_KEY=
 ### Documentation:
  - Time: 1 hour
     - Write comprehensive documentation, README.md: 1 hour
- Total Time: 5 hours
+#### Total Time: 5 hours
