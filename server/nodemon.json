@@ -1,0 +1,5 @@
+{
+    "ignore": [
+      "server/src/jobs.json"
+    ]
+}
